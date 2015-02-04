@@ -1,2 +1,2 @@
-# mtg_bot
+# Spark
 Let's create planeswalker!
